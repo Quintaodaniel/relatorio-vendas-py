@@ -1,0 +1,26 @@
+ID_Produto;Nome_Produto;Categoria;Preco_Unitario;Estoque
+P001;Smartphone Alpha;Celulares;2999.90;50
+P002;"Notebook Pro 14""";Notebooks;7499.00;25
+P003;Fone de Ouvido Wave;Acessórios;349.50;150
+P004;"Smart TV 4K 55""";Televisores;3199.99;30
+P005;Teclado Mecânico Gamer;Periféricos;480.00;80
+P006;Mouse Sem Fio Ergo;Periféricos;199.90;120
+P007;Smartwatch Fit Pro;Wearables;1250.00;60
+P008;Câmera Mirrorless Z;Câmeras;4500.00;15
+P009;Carregador Portátil 10000mAh;Acessórios;150.00;200
+P010;"Tablet Tela 10""";Tablets;1899.00;40
+P011;Soundbar Dolby Atmos;Áudio;1499.90;35
+P012;HD Externo 2TB;Armazenamento;450.00;90
+P013;"Monitor Gamer 27"" 144Hz";Periféricos;2100.00;45
+P014;Roteador Wi-Fi 6 Mesh;Redes;899.00;55
+P015;Lâmpada Inteligente RGB;Casa Inteligente;89.90;300
+P016;Assistente Virtual Echo;Casa Inteligente;350.00;110
+P017;Webcam Full HD;Periféricos;280.00;75
+P018;Impressora Multifuncional;Impressoras;750.00;28
+P019;Notebook Ultra Fino;Notebooks;5200.00;38
+P020;Smartphone Beta;Celulares;4199.00;62
+P021;Fone de Ouvido AirBuds;Acessórios;899.90;130
+P022;"Smart TV QLED 65""";Televisores;5500.00;22
+P023;Cadeira Gamer Ergonômica;Móveis;1300.00;40
+P024;Projetor 4K;Projetores;3800.00;18
+P025;SSD NVMe 1TB;Armazenamento;650.00;85

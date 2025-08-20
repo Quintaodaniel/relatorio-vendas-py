@@ -1,0 +1,51 @@
+ID_Cliente;Nome;Sobrenome;Email;Cidade;Estado
+C001;Ana;Silva;ana.silva@email.com;São Paulo;SP
+C002;Bruno;Costa;bruno.costa@email.com;Rio de Janeiro;RJ
+C003;Carla;Melo;carla.melo@email.com;Belo Horizonte;MG
+C004;Daniel;Almeida;daniel.almeida@email.com;Salvador;BA
+C005;Eduarda;Ferreira;eduarda.f@email.com;Niterói;RJ
+C006;Fábio;Ribeiro;fabio.ribeiro@email.com;Curitiba;PR
+C007;Gabriela;Lima;gabriela.lima@email.com;Porto Alegre;RS
+C008;Heitor;Gomes;heitor.gomes@email.com;Fortaleza;CE
+C009;Isabela;Martins;isabela.m@email.com;Recife;PE
+C010;João;Nunes;joao.nunes@email.com;Brasília;DF
+C011;Livia;Souza;livia.souza@email.com;Manaus;AM
+C012;Marcos;Pereira;marcos.p@email.com;Goiânia;GO
+C013;Natalia;Rodrigues;natalia.r@email.com;Belém;PA
+C014;Otávio;Cardoso;otavio.cardoso@email.com;São Luís;MA
+C015;Patricia;Monteiro;patricia.m@email.com;Maceió;AL
+C016;Rafael;Azevedo;rafael.azevedo@email.com;Campo Grande;MS
+C017;Sofia;Barros;sofia.barros@email.com;João Pessoa;PB
+C018;Thiago;Andrade;thiago.andrade@email.com;Teresina;PI
+C019;Vanessa;Correia;vanessa.c@email.com;Aracaju;SE
+C020;William;Dias;william.dias@email.com;Florianópolis;SC
+C021;Yasmin;Freitas;yasmin.f@email.com;Vitória;ES
+C022;Arthur;Pinto;arthur.pinto@email.com;Cuiabá;MT
+C023;Beatriz;Teixeira;beatriz.t@email.com;Porto Velho;RO
+C024;Caio;Moreira;caio.moreira@email.com;Boa Vista;RR
+C025;Davi;Santos;davi.santos@email.com;Palmas;TO
+C026;Emanuel;Bernardes;emanuel.b@email.com;Rio Branco;AC
+C027;Fernanda;Neves;fernanda.n@email.com;Macapá;AP
+C028;Gustavo;Carvalho;gustavo.c@email.com;São Paulo;SP
+C029;Helena;Castro;helena.castro@email.com;Rio de Janeiro;RJ
+C030;Igor;Rezende;igor.rezende@email.com;Campinas;SP
+C031;Júlia;Barbosa;julia.b@email.com;Santos;SP
+C032;Kevin;Moraes;kevin.moraes@email.com;Duque de Caxias;RJ
+C033;Larissa;Ramos;larissa.r@email.com;Contagem;MG
+C034;Miguel;Fernandes;miguel.f@email.com;Feira de Santana;BA
+C035;Olivia;Pires;olivia.pires@email.com;Joinville;SC
+C036;Pedro;Henrique;pedro.h@email.com;Londrina;PR
+C037;Quintino;Borges;quintino.b@email.com;Caxias do Sul;RS
+C038;Rebeca;Fogaça;rebeca.f@email.com;Pelotas;RS
+C039;Samuel;Mendes;samuel.mendes@email.com;Uberlândia;MG
+C040;Tatiana;Rocha;tatiana.r@email.com;Juiz de Fora;MG
+C041;Ulisses;Brandão;ulisses.b@email.com;Anápolis;GO
+C042;Valentina;Arruda;valentina.a@email.com;Caucaia;CE
+C043;Wagner;Campos;wagner.campos@email.com;Olinda;PE
+C044;Xavier;Diniz;xavier.diniz@email.com;Vila Velha;ES
+C045;Zilda;Esteves;zilda.e@email.com;Blumenau;SC
+C046;Alexandre;Bezerra;alexandre.b@email.com;Guarulhos;SP
+C047;Bruna;Santana;bruna.s@email.com;Osasco;SP
+C048;César;Tavares;cesar.t@email.com;São Gonçalo;RJ
+C049;Diana;Chaves;diana.chaves@email.com;Nova Iguaçu;RJ
+C050;Enzo;Figueiredo;enzo.f@email.com;Belford Roxo;RJ
