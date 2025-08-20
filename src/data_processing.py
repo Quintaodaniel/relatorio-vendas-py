@@ -6,15 +6,17 @@ PROCESSED_DATA_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'pro
 
 def carregar_dados():
     """
-    Carrega os dados brutos de vendas, produtos e clientes de arquivos CSV.
+    Carrega os dados brutos de vendas, produtos e clientes de arquivos CSV,
+    especificando a codificação 'latin-1' para lidar com caracteres especiais.
 
     Retorna:
         Um dicionário contendo os DataFrames de vendas, produtos e clientes.
     """
     try:
-        df_vendas = pd.read_csv(os.path.join(RAW_DATA_PATH, 'vendas.csv'), sep=';')
-        df_produtos = pd.read_csv(os.path.join(RAW_DATA_PATH, 'produtos.csv'), sep=';')
-        df_clientes = pd.read_csv(os.path.join(RAW_DATA_PATH, 'clientes.csv'), sep=';')
+        # Adicionamos o parâmetro encoding='latin-1' em todas as leituras
+        df_vendas = pd.read_csv(os.path.join(RAW_DATA_PATH, 'vendas.csv'), sep=';', encoding='latin-1')
+        df_produtos = pd.read_csv(os.path.join(RAW_DATA_PATH, 'produtos.csv'), sep=';', encoding='latin-1')
+        df_clientes = pd.read_csv(os.path.join(RAW_DATA_PATH, 'clientes.csv'), sep=';', encoding='latin-1')
         
         print("Dados carregados com sucesso!")
         
@@ -28,7 +30,7 @@ def carregar_dados():
         print("Verifique se os arquivos .csv estão na pasta 'data/raw'.")
         return None
     
-def limpar_e_transformar_dados(dfs: dict):
+def limpar_e_transformar_dados(dfs):
     """
     Limpa e transforma os DataFrames, ajustando tipos de dados.
 
@@ -43,12 +45,15 @@ def limpar_e_transformar_dados(dfs: dict):
         
     # --- Limpeza do DataFrame de Vendas ---
     df_vendas = dfs['vendas'].copy()
+    # Converte a coluna de data para o formato datetime (esta parte continua necessária)
     df_vendas['Data_Venda'] = pd.to_datetime(df_vendas['Data_Venda'], format='%d/%m/%Y')
-    df_vendas['Valor_Total_Venda'] = df_vendas['Valor_Total_Venda'].str.replace(',', '.').astype(float)
+    
+    # As linhas que tentavam converter os valores para float foram removidas, 
+    # pois o Pandas já as leu como números.
 
     # --- Limpeza do DataFrame de Produtos ---
     df_produtos = dfs['produtos'].copy()
-    df_produtos['Preco_Unitario'] = df_produtos['Preco_Unitario'].str.replace(',', '.').astype(float)
+    # A linha de conversão de 'Preco_Unitario' também foi removida.
     
     df_clientes = dfs['clientes'].copy()
 
