@@ -1,0 +1,76 @@
+ID_Venda;Data_Venda;ID_Cliente;ID_Produto;Quantidade;Valor_Total_Venda;Nome;Sobrenome;Email;Cidade;Estado;Nome_Produto;Categoria;Preco_Unitario;Estoque;Nome_Completo
+V001;2025-01-15;C003;P001;1;2999,9;Carla;Melo;carla.melo@email.com;Belo Horizonte;MG;Smartphone Alpha;Celulares;2999,9;50;Carla Melo
+V002;2025-01-18;C015;P006;2;399,8;Patricia;Monteiro;patricia.m@email.com;Maceió;AL;Mouse Sem Fio Ergo;Periféricos;199,9;120;Patricia Monteiro
+V003;2025-01-20;C021;P002;1;7499,0;Yasmin;Freitas;yasmin.f@email.com;Vitória;ES;"Notebook Pro 14""";Notebooks;7499,0;25;Yasmin Freitas
+V004;2025-01-21;C010;P004;1;3199,99;João;Nunes;joao.nunes@email.com;Brasília;DF;"Smart TV 4K 55""";Televisores;3199,99;30;João Nunes
+V005;2025-01-25;C033;P003;1;349,5;Larissa;Ramos;larissa.r@email.com;Contagem;MG;Fone de Ouvido Wave;Acessórios;349,5;150;Larissa Ramos
+V006;2025-02-02;C008;P009;3;450,0;Heitor;Gomes;heitor.gomes@email.com;Fortaleza;CE;Carregador Portátil 10000mAh;Acessórios;150,0;200;Heitor Gomes
+V007;2025-02-05;C047;P010;1;1899,0;Bruna;Santana;bruna.s@email.com;Osasco;SP;"Tablet Tela 10""";Tablets;1899,0;40;Bruna Santana
+V008;2025-02-10;C014;P005;1;480,0;Otávio;Cardoso;otavio.cardoso@email.com;São Luís;MA;Teclado Mecânico Gamer;Periféricos;480,0;80;Otávio Cardoso
+V009;2025-02-11;C029;P007;1;1250,0;Helena;Castro;helena.castro@email.com;Rio de Janeiro;RJ;Smartwatch Fit Pro;Wearables;1250,0;60;Helena Castro
+V010;2025-02-14;C006;P008;1;4500,0;Fábio;Ribeiro;fabio.ribeiro@email.com;Curitiba;PR;Câmera Mirrorless Z;Câmeras;4500,0;15;Fábio Ribeiro
+V011;2025-02-20;C050;P021;1;899,9;Enzo;Figueiredo;enzo.f@email.com;Belford Roxo;RJ;Fone de Ouvido AirBuds;Acessórios;899,9;130;Enzo Figueiredo
+V012;2025-02-28;C011;P015;5;449,5;Livia;Souza;livia.souza@email.com;Manaus;AM;Lâmpada Inteligente RGB;Casa Inteligente;89,9;300;Livia Souza
+V013;2025-03-01;C038;P013;1;2100,0;Rebeca;Fogaça;rebeca.f@email.com;Pelotas;RS;"Monitor Gamer 27"" 144Hz";Periféricos;2100,0;45;Rebeca Fogaça
+V014;2025-03-03;C002;P025;1;650,0;Bruno;Costa;bruno.costa@email.com;Rio de Janeiro;RJ;SSD NVMe 1TB;Armazenamento;650,0;85;Bruno Costa
+V015;2025-03-07;C019;P018;1;750,0;Vanessa;Correia;vanessa.c@email.com;Aracaju;SE;Impressora Multifuncional;Impressoras;750,0;28;Vanessa Correia
+V016;2025-03-12;C041;P011;1;1499,9;Ulisses;Brandão;ulisses.b@email.com;Anápolis;GO;Soundbar Dolby Atmos;Áudio;1499,9;35;Ulisses Brandão
+V017;2025-03-15;C001;P020;1;4199,0;Ana;Silva;ana.silva@email.com;São Paulo;SP;Smartphone Beta;Celulares;4199,0;62;Ana Silva
+V018;2025-03-16;C025;P012;2;900,0;Davi;Santos;davi.santos@email.com;Palmas;TO;HD Externo 2TB;Armazenamento;450,0;90;Davi Santos
+V019;2025-03-21;C030;P019;1;5200,0;Igor;Rezende;igor.rezende@email.com;Campinas;SP;Notebook Ultra Fino;Notebooks;5200,0;38;Igor Rezende
+V020;2025-03-22;C009;P001;1;2999,9;Isabela;Martins;isabela.m@email.com;Recife;PE;Smartphone Alpha;Celulares;2999,9;50;Isabela Martins
+V021;2025-04-01;C018;P022;1;5500,0;Thiago;Andrade;thiago.andrade@email.com;Teresina;PI;"Smart TV QLED 65""";Televisores;5500,0;22;Thiago Andrade
+V022;2025-04-03;C045;P016;2;700,0;Zilda;Esteves;zilda.e@email.com;Blumenau;SC;Assistente Virtual Echo;Casa Inteligente;350,0;110;Zilda Esteves
+V023;2025-04-05;C013;P023;1;1300,0;Natalia;Rodrigues;natalia.r@email.com;Belém;PA;Cadeira Gamer Ergonômica;Móveis;1300,0;40;Natalia Rodrigues
+V024;2025-04-09;C028;P009;1;150,0;Gustavo;Carvalho;gustavo.c@email.com;São Paulo;SP;Carregador Portátil 10000mAh;Acessórios;150,0;200;Gustavo Carvalho
+V025;2025-04-10;C036;P014;1;899,0;Pedro;Henrique;pedro.h@email.com;Londrina;PR;Roteador Wi-Fi 6 Mesh;Redes;899,0;55;Pedro Henrique
+V026;2025-04-15;C004;P024;1;3800,0;Daniel;Almeida;daniel.almeida@email.com;Salvador;BA;Projetor 4K;Projetores;3800,0;18;Daniel Almeida
+V027;2025-04-17;C049;P017;2;560,0;Diana;Chaves;diana.chaves@email.com;Nova Iguaçu;RJ;Webcam Full HD;Periféricos;280,0;75;Diana Chaves
+V028;2025-04-22;C022;P003;1;349,5;Arthur;Pinto;arthur.pinto@email.com;Cuiabá;MT;Fone de Ouvido Wave;Acessórios;349,5;150;Arthur Pinto
+V029;2025-05-01;C007;P002;1;7499,0;Gabriela;Lima;gabriela.lima@email.com;Porto Alegre;RS;"Notebook Pro 14""";Notebooks;7499,0;25;Gabriela Lima
+V030;2025-05-04;C031;P020;1;4199,0;Júlia;Barbosa;julia.b@email.com;Santos;SP;Smartphone Beta;Celulares;4199,0;62;Júlia Barbosa
+V031;2025-05-06;C012;P008;1;4500,0;Marcos;Pereira;marcos.p@email.com;Goiânia;GO;Câmera Mirrorless Z;Câmeras;4500,0;15;Marcos Pereira
+V032;2025-05-10;C040;P004;1;3199,99;Tatiana;Rocha;tatiana.r@email.com;Juiz de Fora;MG;"Smart TV 4K 55""";Televisores;3199,99;30;Tatiana Rocha
+V033;2025-05-12;C020;P012;1;450,0;William;Dias;william.dias@email.com;Florianópolis;SC;HD Externo 2TB;Armazenamento;450,0;90;William Dias
+V034;2025-05-15;C039;P019;1;5200,0;Samuel;Mendes;samuel.mendes@email.com;Uberlândia;MG;Notebook Ultra Fino;Notebooks;5200,0;38;Samuel Mendes
+V035;2025-05-20;C005;P007;1;1250,0;Eduarda;Ferreira;eduarda.f@email.com;Niterói;RJ;Smartwatch Fit Pro;Wearables;1250,0;60;Eduarda Ferreira
+V036;2025-05-21;C026;P001;1;2999,9;Emanuel;Bernardes;emanuel.b@email.com;Rio Branco;AC;Smartphone Alpha;Celulares;2999,9;50;Emanuel Bernardes
+V037;2025-06-01;C044;P015;10;899,0;Xavier;Diniz;xavier.diniz@email.com;Vila Velha;ES;Lâmpada Inteligente RGB;Casa Inteligente;89,9;300;Xavier Diniz
+V038;2025-06-03;C016;P022;1;5500,0;Rafael;Azevedo;rafael.azevedo@email.com;Campo Grande;MS;"Smart TV QLED 65""";Televisores;5500,0;22;Rafael Azevedo
+V039;2025-06-05;C035;P006;3;599,7;Olivia;Pires;olivia.pires@email.com;Joinville;SC;Mouse Sem Fio Ergo;Periféricos;199,9;120;Olivia Pires
+V040;2025-06-10;C023;P021;1;899,9;Beatriz;Teixeira;beatriz.t@email.com;Porto Velho;RO;Fone de Ouvido AirBuds;Acessórios;899,9;130;Beatriz Teixeira
+V041;2025-06-11;C048;P013;1;2100,0;César;Tavares;cesar.t@email.com;São Gonçalo;RJ;"Monitor Gamer 27"" 144Hz";Periféricos;2100,0;45;César Tavares
+V042;2025-06-18;C017;P025;2;1300,0;Sofia;Barros;sofia.barros@email.com;João Pessoa;PB;SSD NVMe 1TB;Armazenamento;650,0;85;Sofia Barros
+V043;2025-06-22;C032;P005;1;480,0;Kevin;Moraes;kevin.moraes@email.com;Duque de Caxias;RJ;Teclado Mecânico Gamer;Periféricos;480,0;80;Kevin Moraes
+V044;2025-06-25;C027;P010;1;1899,0;Fernanda;Neves;fernanda.n@email.com;Macapá;AP;"Tablet Tela 10""";Tablets;1899,0;40;Fernanda Neves
+V045;2025-07-01;C042;P018;1;750,0;Valentina;Arruda;valentina.a@email.com;Caucaia;CE;Impressora Multifuncional;Impressoras;750,0;28;Valentina Arruda
+V046;2025-07-05;C037;P017;1;280,0;Quintino;Borges;quintino.b@email.com;Caxias do Sul;RS;Webcam Full HD;Periféricos;280,0;75;Quintino Borges
+V047;2025-07-10;C024;P009;2;300,0;Caio;Moreira;caio.moreira@email.com;Boa Vista;RR;Carregador Portátil 10000mAh;Acessórios;150,0;200;Caio Moreira
+V048;2025-07-15;C046;P023;1;1300,0;Alexandre;Bezerra;alexandre.b@email.com;Guarulhos;SP;Cadeira Gamer Ergonômica;Móveis;1300,0;40;Alexandre Bezerra
+V049;2025-07-20;C034;P016;1;350,0;Miguel;Fernandes;miguel.f@email.com;Feira de Santana;BA;Assistente Virtual Echo;Casa Inteligente;350,0;110;Miguel Fernandes
+V050;2025-07-22;C043;P014;1;899,0;Wagner;Campos;wagner.campos@email.com;Olinda;PE;Roteador Wi-Fi 6 Mesh;Redes;899,0;55;Wagner Campos
+V051;2025-07-25;C001;P006;1;199,9;Ana;Silva;ana.silva@email.com;São Paulo;SP;Mouse Sem Fio Ergo;Periféricos;199,9;120;Ana Silva
+V052;2025-07-28;C002;P001;1;2999,9;Bruno;Costa;bruno.costa@email.com;Rio de Janeiro;RJ;Smartphone Alpha;Celulares;2999,9;50;Bruno Costa
+V053;2025-08-01;C010;P009;2;300,0;João;Nunes;joao.nunes@email.com;Brasília;DF;Carregador Portátil 10000mAh;Acessórios;150,0;200;João Nunes
+V054;2025-08-02;C028;P017;1;280,0;Gustavo;Carvalho;gustavo.c@email.com;São Paulo;SP;Webcam Full HD;Periféricos;280,0;75;Gustavo Carvalho
+V055;2025-08-03;C008;P003;1;349,5;Heitor;Gomes;heitor.gomes@email.com;Fortaleza;CE;Fone de Ouvido Wave;Acessórios;349,5;150;Heitor Gomes
+V056;2025-08-04;C015;P011;1;1499,9;Patricia;Monteiro;patricia.m@email.com;Maceió;AL;Soundbar Dolby Atmos;Áudio;1499,9;35;Patricia Monteiro
+V057;2025-08-05;C033;P021;1;899,9;Larissa;Ramos;larissa.r@email.com;Contagem;MG;Fone de Ouvido AirBuds;Acessórios;899,9;130;Larissa Ramos
+V058;2025-08-06;C047;P005;1;480,0;Bruna;Santana;bruna.s@email.com;Osasco;SP;Teclado Mecânico Gamer;Periféricos;480,0;80;Bruna Santana
+V059;2025-08-07;C001;P015;3;269,7;Ana;Silva;ana.silva@email.com;São Paulo;SP;Lâmpada Inteligente RGB;Casa Inteligente;89,9;300;Ana Silva
+V060;2025-08-08;C021;P007;1;1250,0;Yasmin;Freitas;yasmin.f@email.com;Vitória;ES;Smartwatch Fit Pro;Wearables;1250,0;60;Yasmin Freitas
+V061;2025-08-09;C030;P012;1;450,0;Igor;Rezende;igor.rezende@email.com;Campinas;SP;HD Externo 2TB;Armazenamento;450,0;90;Igor Rezende
+V062;2025-08-10;C002;P006;2;399,8;Bruno;Costa;bruno.costa@email.com;Rio de Janeiro;RJ;Mouse Sem Fio Ergo;Periféricos;199,9;120;Bruno Costa
+V063;2025-08-11;C004;P013;1;2100,0;Daniel;Almeida;daniel.almeida@email.com;Salvador;BA;"Monitor Gamer 27"" 144Hz";Periféricos;2100,0;45;Daniel Almeida
+V064;2025-08-12;C038;P001;1;2999,9;Rebeca;Fogaça;rebeca.f@email.com;Pelotas;RS;Smartphone Alpha;Celulares;2999,9;50;Rebeca Fogaça
+V065;2025-08-13;C011;P022;1;5500,0;Livia;Souza;livia.souza@email.com;Manaus;AM;"Smart TV QLED 65""";Televisores;5500,0;22;Livia Souza
+V066;2025-08-14;C050;P003;1;349,5;Enzo;Figueiredo;enzo.f@email.com;Belford Roxo;RJ;Fone de Ouvido Wave;Acessórios;349,5;150;Enzo Figueiredo
+V067;2025-08-15;C029;P025;1;650,0;Helena;Castro;helena.castro@email.com;Rio de Janeiro;RJ;SSD NVMe 1TB;Armazenamento;650,0;85;Helena Castro
+V068;2025-08-16;C009;P016;1;350,0;Isabela;Martins;isabela.m@email.com;Recife;PE;Assistente Virtual Echo;Casa Inteligente;350,0;110;Isabela Martins
+V069;2025-08-17;C045;P009;4;600,0;Zilda;Esteves;zilda.e@email.com;Blumenau;SC;Carregador Portátil 10000mAh;Acessórios;150,0;200;Zilda Esteves
+V070;2025-08-18;C003;P019;1;5200,0;Carla;Melo;carla.melo@email.com;Belo Horizonte;MG;Notebook Ultra Fino;Notebooks;5200,0;38;Carla Melo
+V071;2025-08-19;C018;P006;1;199,9;Thiago;Andrade;thiago.andrade@email.com;Teresina;PI;Mouse Sem Fio Ergo;Periféricos;199,9;120;Thiago Andrade
+V072;2025-08-20;C025;P010;1;1899,0;Davi;Santos;davi.santos@email.com;Palmas;TO;"Tablet Tela 10""";Tablets;1899,0;40;Davi Santos
+V073;2025-08-21;C036;P023;1;1300,0;Pedro;Henrique;pedro.h@email.com;Londrina;PR;Cadeira Gamer Ergonômica;Móveis;1300,0;40;Pedro Henrique
+V074;2025-08-22;C049;P001;1;2999,9;Diana;Chaves;diana.chaves@email.com;Nova Iguaçu;RJ;Smartphone Alpha;Celulares;2999,9;50;Diana Chaves
+V075;2025-08-23;C001;P009;1;150,0;Ana;Silva;ana.silva@email.com;São Paulo;SP;Carregador Portátil 10000mAh;Acessórios;150,0;200;Ana Silva
